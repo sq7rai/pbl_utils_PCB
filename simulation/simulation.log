@@ -1,0 +1,66 @@
+Circuit: * C:\Users\ajanu\PBL\load_pcb\pbl_utils_PCB\simulation\simulation.asc
+
+C1: Increased Cpar to 1e-016
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 8.33655e-005
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.0416667
+Gmin = 8.09936e-005
+vernier = 0.0555555
+Gmin = 7.1533e-005
+vernier = 0.074074
+vernier = 0.0987653
+Gmin = 5.81193e-005
+vernier = 0.131687
+vernier = 0.175583
+Gmin = 4.18231e-005
+vernier = 0.23411
+Gmin = 2.50365e-005
+vernier = 0.312147
+vernier = 0.416196
+Gmin = 1.07354e-005
+vernier = 0.554928
+vernier = 0.739903
+Gmin = 2.8767e-006
+vernier = 0.986537
+Gmin = 3.88707e-007
+vernier = 1
+Gmin = 4.17371e-008
+Gmin = 4.48149e-009
+Gmin = 4.81196e-010
+Gmin = 5.16681e-011
+Gmin = 5.54782e-012
+Gmin = 5.95692e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Sun Apr 16 22:53:59 2023
+Total elapsed time: 0.435 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3848
+traniter = 2769
+tranpoints = 1211
+accept = 1170
+rejected = 41
+matrix size = 158
+fillins = 202
+solver = Normal
+Thread vector: 12.8/8.4[3] 6.3/3.0[3] 4.7/6.4[1] 0.8/3.9[1]  2592/500
+Matrix Compiler1: 20.74 KB object code size  10.2/5.4/[1.7]
+Matrix Compiler2: 16.65 KB object code size  2.8/3.9/[1.2]
+
